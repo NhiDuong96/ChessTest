@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.lispcast:org.apache.commons.lang:2.5.0" type="repository">
+    <properties maven-id="com.lispcast:org.apache.commons.lang:2.5.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lispcast/org.apache.commons.lang/2.5.0/org.apache.commons.lang-2.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
